@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1069840094789",
+    "project_id": "mobil-28e66",
+    "storage_bucket": "mobil-28e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069840094789:android:00d7e31d58bd12828f752c",
+        "android_client_info": {
+          "package_name": "com.example.sifuentes_jeremy_ec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069840094789-hr5g9v3hajnl0q641rlfng07nbfqk2g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sifuentes_jeremy_ec",
+            "certificate_hash": "3c15389f1db88ce51a85c45c3ff9d0f0be265c0c"
+          }
+        },
+        {
+          "client_id": "1069840094789-9b4niaosih6hugfpmnqet7dkvfhphlgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3M0FpFF6OsHB1kdf9fURbvRd1foKNO6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069840094789-9b4niaosih6hugfpmnqet7dkvfhphlgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

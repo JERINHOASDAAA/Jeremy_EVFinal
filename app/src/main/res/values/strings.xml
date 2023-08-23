@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sifuentes_Jeremy_ec</string>
+    <string name="boton1">Iniciar Sesion</string>
+    <string name="boton2">Registrarse</string>
+    <string name="menu1">Favoritos</string>
+    <string name="menu2">Lista</string>
+    <string name="menu3">Info</string>
+    <string name="name">Name</string>
+    <string name="add">Agregar a Fav</string>
+    <string name="rev">borrar</string>
+    <string name="google_client_id">1069840094789-9b4niaosih6hugfpmnqet7dkvfhphlgc.apps.googleusercontent.com</string>
+
+</resources>
